@@ -11,9 +11,3 @@ Models are fit on training data comprised of inputs and outputs and used to make
 
 Learning is a search through the space of possible hypotheses for one that will perform well, even on new examples beyond the training set. To measure the accuracy of a hypothesis we give it a test set of examples that are distinct from the training set.
 Page 695, Artificial Intelligence: A Modern Approach, 3rd edition, 2015.
-
-Screen Shot 2021-05-14 at 11.15.40 AM
-
-
-
-
